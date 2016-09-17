@@ -7,11 +7,11 @@ feature: assets/img/rock.jpg
 comments: false
 ---
     
-> I have a dream: build robot <strike>troops</strike>, and <strike>conquer</strike> change the world, yay!  
+> I have a dream: build smart robot <strike>troops</strike> and <strike>conquer</strike> change the world, yay!  
 > --- by Marsan Ma
 
 
-I am a senior engineer with 9-years industry experience, currently working as a **Data Scientist** for 17 media, the top-1 mobile live-casting company in Taiwan. 
+I am a senior engineer with 8-years industry experience, currently working as a **Data Scientist** for 17 media, the top-1 mobile live-casting company in Taiwan. 
 
 
 ### I built machine learning applications, includes:  
