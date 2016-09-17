@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A ChatBot in tensorflow"
-date:   2016-04-06
+date:   2016-09-12
 excerpt: "A deep-learning chatbot with (seq2seq model + attention mechanism + beam_search algorithm + anti-language model) in tensorflow, works end-to-end from training corpus to chat model, and build-in a facebook-messenger backend server."
 project: true
 tag:
@@ -9,6 +9,7 @@ tag:
 - deep learning
 - neural network
 - rnn
+feature: https://4.bp.blogspot.com/-aArS0l1pjHQ/Vjj71pKAaEI/AAAAAAAAAxE/Nvy1FSbD_Vs/s640/2TFstaticgraphic_alt-01.png
 comments: true
 ---
 
