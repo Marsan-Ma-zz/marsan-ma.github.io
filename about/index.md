@@ -19,23 +19,23 @@ I am a senior engineer with 8-years industry experience, currently working as a 
 * CTR (click-through-rate) predicting model  
 * Ad-campaign performance predicting model  
 * [Native Ads Classifier](https://github.com/Marsan-Ma/tnative)  
-* News categorizer model  
-* [User checkIns prediction](https://github.com/Marsan-Ma/checkins)  
+* Realtime News Classifier  
+* [User checkIns prediction model](https://github.com/Marsan-Ma/checkins)  
 * [Deep-learning dialog model](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm)  
 
 
 ### I built web dashboard which:  
-* Visualize data by through D3.js  
+* Visualize data through [D3.js](https://d3js.org/)  
 * Combine data sources including:   
     1. SQL (mysql, postgres)  
     2. NoSQL (mongoDB, redis)  
     3. others (spark, bigquery)   
     4. raw server log (by self ETL)  
-* Give insights to marketing teams
+* Reveal insights of inner data to marketing teams
 
 
-Beyond being a well-trained engineer, I was an entrepreneur. I could provide business strategy along with technical solutions. In the past few years, I join the largest startup incubator [AppWorks](https://techcrunch.com/2015/03/17/appworks-50m/) in Taiwan. Having been worked with several startups in many different kinds of fields, I gained various domain knowledge like e-commerce, media, digital ads and mobile apps.
+Beyond being a well-trained engineer, I was an entrepreneur. I could provide business strategy along with technical solutions. In the past few years, I join the largest startup incubator [AppWorks](https://techcrunch.com/2015/03/17/appworks-50m/) in Taiwan. Been worked with startups in many different kinds of fields, I gained various domain knowledge like e-commerce, media, digital ads and mobile apps.
 
-I love making new friends and sharing latest industries experiences, feel free to contact me :)  
-If you are interested in hiring me, here is **[my resume](/resume)**.
+I love making new friends and sharing industry experiences, feel free to chat :)  
+If you are building some interesting machine learning project and interested in hiring me, here is **[my resume](/resume)**.
 
