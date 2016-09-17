@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dato Challenge native ad classifier"
+title:  "Dato Challenge: native ad classifier"
 date:   2015-08-15
 excerpt: "It's my code doing the Data Kaggle challenge. In this challenge, we are requested to develop a system predicting whether an article is a native advertisement. It’s involves lots of natural language processing tricks, like boilerplate removing, topic modeling and embedding techniques."
 project: true
