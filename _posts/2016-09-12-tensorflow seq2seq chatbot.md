@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A ChatBot in tensorflow"
-date:   2016-09-12
+title:  "A deep learning seq2seq model ChatBot in tensorflow"
+date:   2016-10-02
 excerpt: "A deep-learning chatbot with (seq2seq model + attention mechanism + beam_search algorithm + anti-language model) in tensorflow, works end-to-end from training corpus to chat model, and build-in a facebook-messenger backend server."
 project: true
 tag:
@@ -22,6 +22,8 @@ This is a [seq2seq model](http://arxiv.org/abs/1406.1078) modified from [tensorf
 3. This work add [anti-language model](https://arxiv.org/abs/1510.03055) to suppress the generic response problem of intrinsic seq2seq model.
 4. A simple [Flask](http://flask.pocoo.org/) server `app.py` is included, which used to be a Facebook Messenger App backend.
 
+You may try to talk with [my bot](https://www.facebook.com/Chatko-1008621819264960/?fref=ts)!
+Which currently trained by [corpus scraped from twitter](/twitter-stream-scraper).
 
 ## Just tell me how it works
 

@@ -15,7 +15,7 @@ I am a senior engineer with 8-years industry experience, currently working as a 
 
 
 ### I built machine learning applications, includes:  
-* Recommder system  
+* Recommender system  
 * CTR (click-through-rate) predicting model  
 * Ad-campaign performance predicting model  
 * [Native Ads Classifier](https://github.com/Marsan-Ma/tnative)  
