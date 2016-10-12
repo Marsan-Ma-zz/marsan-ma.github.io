@@ -11,31 +11,37 @@ comments: false
 > --- by Marsan Ma
 
 
-I am a senior engineer with 8-years industry experience, currently working as a **Data Scientist** for 17 media, the top-1 mobile live-casting company in Taiwan. 
+I am a data scientist / full stack developer with 8 years industry and startup experience, I provide business strategy along with technical solutions. Currently, I am the data scientist in 17 media, the top-1 live casting company based in Taiwan. 
+
+I built machine learning applications, including:
+    * Recommender system
+    * CTR (click-through-rate) predicting model
+    * Ad-campaign performance predicting model
+    * Native Ads Classifier
+    * Realtime News Classifier
+    * User checkIns prediction model
+    * Deep-learning dialog model
+
+I built BI dashboard which:
+    * Help marketing teams decide strategy through data insight and boost revenue.
+    * Process from raw log to visualized charts.
+    * Built upon cloud services: AWS, GCP, Linode, Azure.
+    * Integrate data pipelines including SQL/NoSQL, BigQuery, Spark/Hive/Hadoop.
+
+Beyond being a well-trained engineer, I was an entrepreneur. In the past few years, I join the largest startup incubator AppWorks in Taiwan. Been worked with startups in many different kinds of fields, I gained various domain knowledge like e-commerce, media, digital ads and mobile apps.
+
+I love making new friends and sharing industry experiences, feel free to chat :)
+
+---------------------------------
+Email: [marsan@gmail.com][0]
+Website: [http://marsan-ma.github.io][1]
+Resume: [https://dl.dropboxusercontent.com/u/58167799/marsan_resume_en.pdf][2]
+Github: [https://github.com/Marsan-Ma][3]
+Leetcode: [https://leetcode.com/marsan/][4]
 
 
-### I built machine learning applications, includes:  
-* Recommender system  
-* CTR (click-through-rate) predicting model  
-* Ad-campaign performance predicting model  
-* [Native Ads Classifier](https://github.com/Marsan-Ma/tnative)  
-* Realtime News Classifier  
-* [User checkIns prediction model](https://github.com/Marsan-Ma/checkins)  
-* [Deep-learning dialog model](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm)  
-
-
-### I built web dashboard which:  
-* Visualize data through [D3.js](https://d3js.org/)  
-* Combine data sources including:   
-    1. SQL (mysql, postgres)  
-    2. NoSQL (mongoDB, redis)  
-    3. others (spark, bigquery)   
-    4. raw server log (by self ETL)  
-* Reveal insights of inner data to marketing teams
-
-
-Beyond being a well-trained engineer, I was an entrepreneur. I could provide business strategy along with technical solutions. In the past few years, I join the largest startup incubator [AppWorks](https://techcrunch.com/2015/03/17/appworks-50m/) in Taiwan. Been worked with startups in many different kinds of fields, I gained various domain knowledge like e-commerce, media, digital ads and mobile apps.
-
-I love making new friends and sharing industry experiences, feel free to chat :)  
-If you are building some interesting machine learning project and interested in hiring me, here is **[my resume](/resume)**.
-
+[0]: marsan@gmail.com
+[1]: http://marsan-ma.github.io
+[2]: https://dl.dropboxusercontent.com/u/58167799/marsan_resume_en.pdf
+[3]: https://github.com/Marsan-Ma
+[4]: https://leetcode.com/marsan/
