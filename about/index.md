@@ -40,7 +40,7 @@ Github: [https://github.com/Marsan-Ma][3]
 Leetcode: [https://leetcode.com/marsan/][4]  
 
 
-[0]: marsan@gmail.com
+[0]: mailto:marsan@gmail.com
 [1]: http://marsan-ma.github.io
 [2]: https://dl.dropboxusercontent.com/u/58167799/marsan_resume_en.pdf
 [3]: https://github.com/Marsan-Ma
