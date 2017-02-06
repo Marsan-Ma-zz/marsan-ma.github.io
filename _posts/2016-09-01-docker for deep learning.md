@@ -13,7 +13,7 @@ comments: true
 
 # Briefing
 
-Solving all the dependencies for environment setup is frustrating, so here is my workhorse docker containers that I maintained on my job:
+Solving all the dependencies for environment setup is frustrating, so here is my workhorse docker containers that I maintained on my job. Here is the [Github Repository](https://github.com/Marsan-Ma/docker_mldm)
 
 The [GPU supported one](https://github.com/Marsan-Ma/docker_mldm_gpu) is more active since I have machines with GPU (amazon G series instances). I also make [a non-GPU version](https://github.com/Marsan-Ma/docker_mldm) for cases that I need to deploy smaller projects in cheaper machines.
 

@@ -14,7 +14,9 @@ feature: https://kaggle2.blob.core.windows.net/competitions/kaggle/5186/media/FB
 comments: true
 ---
 
-## Kaggle challenge: predicting checkins
+## Facebook challenge: predicting user checkings
+This is the code I participated in the Facebook Challenge, see the Github repository:  
+[https://github.com/Marsan-Ma/checkins](https://github.com/Marsan-Ma/checkins)  
 
 The goal of this competition is to predict which place a person would like to check into. For the purposes of this competition, Facebook released 40M check-in data of a small city, and our task is to predict the most likely check-in places of 8M user samples.
 

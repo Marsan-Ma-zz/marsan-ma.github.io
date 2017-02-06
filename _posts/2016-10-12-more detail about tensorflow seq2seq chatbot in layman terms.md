@@ -13,6 +13,12 @@ feature: https://4.bp.blogspot.com/-aArS0l1pjHQ/Vjj71pKAaEI/AAAAAAAAAxE/Nvy1FSbD
 comments: true
 ---
 
+# tensorflow chatbot
+
+### (with seq2seq + attention + dict-compress + beam search + anti-LM + deep reinforcement learning + facebook messenger server)
+
+Github Repository: [https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm][a1]  
+
 Here I'll try to explain some algorithm and implementation details about [this work][a1] in layman's terms.
 
 [a1]: https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm

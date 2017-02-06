@@ -14,7 +14,7 @@ comments: true
 
 # Minimum Facebook ChatBot App
 
-A facebook chatbot (messenger) backend server, written in python flask framework
+A facebook chatbot (messenger) backend server, written in python flask framework. See my [Github Repository](https://github.com/Marsan-Ma/fb_messenger)
 
 
 ## Deploy Steps

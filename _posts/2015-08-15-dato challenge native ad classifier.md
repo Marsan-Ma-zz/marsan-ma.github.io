@@ -18,7 +18,7 @@ comments: true
 
 # "Truly Native?" 
 
-My code doing the [Data Kaggle challenge](https://www.kaggle.com/c/dato-native): [https://github.com/Marsan-Ma/tnative](https://github.com/Marsan-Ma/tnative)
+My code doing the [Data Kaggle challenge](https://www.kaggle.com/c/dato-native): Here is the [Github repository](https://github.com/Marsan-Ma/tnative) of this work.
 
 
 ### Briefing

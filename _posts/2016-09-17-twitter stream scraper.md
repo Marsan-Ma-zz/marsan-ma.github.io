@@ -14,6 +14,7 @@ comments: true
 
 # Twitter Scraper
 
+Github Repository: [https://github.com/Marsan-Ma/twitter_scraper](https://github.com/Marsan-Ma/twitter_scraper)  
 
 Scraping twitter content from [twitter streaming API](https://dev.twitter.com/streaming/overview), in python3. The output is used as the training corpus for my [**ChatBot**](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm).
 
