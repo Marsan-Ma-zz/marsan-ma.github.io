@@ -16,6 +16,8 @@ comments: true
 # Tensorflow chatbot
 ### (with seq2seq + attention + dict-compress + beam search + anti-LM + facebook messenger server)
 
+Github Repository: [https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm)  
+
 
 > ####[Update 2017-03-09]
 > 1. Upgrade to tensorflow v1.0.0, no backward compatible since tensorflow have changed so much.   
